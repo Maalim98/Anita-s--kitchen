@@ -19,7 +19,7 @@ To access this project on your local files, you can clone it using these steps
 1.
 1. Git
 ### Live Site
-View [live]
+View [live]https://maalim98.github.io/Anita-s--kitchen/
 ### Licence
 This project is under the  [MIT](LICENSE) licence
 License format:
